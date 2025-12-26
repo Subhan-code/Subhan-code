@@ -1,6 +1,6 @@
 # Hi, I’m Subhan 👋  
 
-I’m a **BTech Computer Science student** who enjoys turning ideas into clean, interactive digital experiences.  
+I’m a **CS student** who enjoys turning ideas into clean, interactive digital experiences.  
 I work at the intersection of **design and development**, where visuals meet logic and performance.
 
 I like building things that feel smooth, intentional, and useful — whether that’s a frontend interface, a full-stack feature, or a small experiment to learn something new.
@@ -58,17 +58,6 @@ I like building things that feel smooth, intentional, and useful — whether tha
   <img src="https://streak-stats.demolab.com?user=Subhan-code&theme=radical&border_radius=4" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhan-code&show_icons=true&count_private=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhan-code&layout=compact&theme=radical" width="400"/>
-</p>
-
----
-
-## 🏆 Highlights
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Subhan-code&theme=radical&no-frame=true&margin-w=4)
-
 ---
 
 ## 🌐 Find Me Around the Web
@@ -88,5 +77,5 @@ If you enjoy my projects or find them useful:
 ---
 
 <p align="center">
-  Crafted with care by <strong>Subhan</strong>
+  Crafted with 💖 care by <strong>Subhan</strong>
 </p>
