@@ -7,6 +7,20 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ---
 
+## 🌟 Around Here
+
+<p align="left">
+  <a href="https://github.com/Subhan-code">
+    <img src="https://img.shields.io/github/followers/Subhan-code?label=Followers&style=for-the-badge&color=6366f1&labelColor=0f172a" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Subhan-code&label=Profile+Views&color=22c55e&style=for-the-badge" />
+  <a href="https://github.com/sponsors/Subhan-code">
+    <img src="https://img.shields.io/badge/Sponsor-Subhan-code-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## ✨ What I Do
 
 - Design modern, responsive user interfaces  
@@ -67,7 +81,7 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ## ☕ Support My Work
 
-If you like what I build or find my projects helpful:
+If you enjoy my projects or find them useful:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/subhannotion)
 
