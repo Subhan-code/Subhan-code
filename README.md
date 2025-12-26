@@ -7,16 +7,13 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ---
 
-## 🌟 Around Here
+## Around Here
 
 <p align="left">
   <a href="https://github.com/Subhan-code">
     <img src="https://img.shields.io/github/followers/Subhan-code?label=Followers&style=for-the-badge&color=6366f1&labelColor=0f172a" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Subhan-code&label=Profile+Views&color=22c55e&style=for-the-badge" />
-  <a href="https://github.com/sponsors/Subhan-code">
-    <img src="https://img.shields.io/badge/Sponsor-Subhan-code-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -30,7 +27,7 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ---
 
-## 🧠 Tech I Work With
+## Tech I Work With
 
 ### Languages
 [![Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css)](https://skillicons.dev)
@@ -60,7 +57,7 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ---
 
-## 🌐 Find Me Around the Web
+## Find Me Around the Web
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhanHQ)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Subhan-Uddin)
@@ -68,7 +65,7 @@ I like building things that feel smooth, intentional, and useful — whether tha
 
 ---
 
-## ☕ Support My Work
+## Support My Work
 
 If you enjoy my projects or find them useful:
 
