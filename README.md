@@ -1,65 +1,44 @@
-# Hey! I'm Subhan 👋
+# Hi, I’m Subhan 👋  
 
-Hi there! I'm **Subhan**, a BTech Computer Science student exploring the world of **design, frontend, and full-stack development**.
+I’m a **BTech Computer Science student** who enjoys turning ideas into clean, interactive digital experiences.  
+I work at the intersection of **design and development**, where visuals meet logic and performance.
 
-✨ Curious explorer blending creativity with code  
-🚀 Building projects, learning new tech, and always open to collaboration  
-
----
-
-## 🚀 Skills at a Glance
-
-- **Frontend:** Next.js, React, Tailwind CSS, Framer Motion  
-- **Languages:** JavaScript, TypeScript, Python, C++  
-- **Backend & Databases:** Node.js, MongoDB, MySQL, Firebase  
-- **Design:** Figma, Canva, Dribbble (Inspiration)  
-- **Cloud & Deployment:** Vercel, GitHub Pages, AWS  
+I like building things that feel smooth, intentional, and useful — whether that’s a frontend interface, a full-stack feature, or a small experiment to learn something new.
 
 ---
 
-## 🔗 Profiles & Support
+## ✨ What I Do
 
-<a href="https://github.com/Subhan-code" target="_blank">
-  <img src="https://img.shields.io/github/followers/Subhan-code?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
-</a>
-<a href="https://buymeacoffee.com/subhannotion" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Subhan-code&label=Profile+Views&color=00C4CC&style=for-the-badge" />
+- Design modern, responsive user interfaces  
+- Build scalable frontend and full-stack applications  
+- Experiment with animations, interactions, and performance  
+- Learn continuously and refine my craft through real projects  
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Tech I Work With
 
-### 🧠 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css)](https://skillicons.dev)
+### Languages
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css)](https://skillicons.dev)
 
-### 🎨 Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,framer)](https://skillicons.dev)
+### Frontend
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,framer)](https://skillicons.dev)
 
-### 🛠 Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+### Backend
+[![Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-### 🗄 Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws)](https://skillicons.dev)
+### Databases & Cloud
+[![Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws)](https://skillicons.dev)
 
-### 🎨 Design & Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,canva,git,github,vercel,githubpages)](https://skillicons.dev)
+### Design & Tools
+[![Skills](https://skillicons.dev/icons?i=figma,canva,git,github,vercel,githubpages)](https://skillicons.dev)
 
-### 📊 Data Science
-[![My Skills](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
-
----
-
-## 🌐 Connect with Me
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhanHQ)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Subhan-Uddin)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Subhan-code)
+### Data
+[![Skills](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 A Quick Look at My GitHub
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Subhan-code&theme=radical&border_radius=4" />
@@ -72,30 +51,28 @@ Hi there! I'm **Subhan**, a BTech Computer Science student exploring the world o
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Subhan-code&theme=radical&no-frame=true&margin-w=4)
 
 ---
 
-## ✍️ Random Dev Quote
+## 🌐 Find Me Around the Web
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Subhan-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhanHQ)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Subhan-Uddin)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Subhan-code)
 
 ---
 
-## 💰 Support My Work
+## ☕ Support My Work
+
+If you like what I build or find my projects helpful:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/subhannotion)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Subhan</strong>
+  Crafted with care by <strong>Subhan</strong>
 </p>
